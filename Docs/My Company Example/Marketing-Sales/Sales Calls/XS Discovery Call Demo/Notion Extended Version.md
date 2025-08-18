@@ -1,7 +1,7 @@
 # Automated Sales Meeting Analysis
 **Client:** XS Discovery Call  
-**Version:** v01  
-**Generated:** 2025-08-17 16:06:18  
+**Version:** Demo  
+**Generated:** 2025-08-18 09:54:14  
 **Workspace:** Personal-Super-Agent-Ru  
 **Meeting ID:** 01K1ZF3FGSY686JHZV0QSFG57K  
 **Template:** prompt_notion  
@@ -66,5 +66,5 @@ Demo scheduled for Jan 22, prepare custom ROI analysis
 ---
 
 *This analysis was generated automatically using the Sales Meeting Processing system.*
-*Session: `XS Discovery Call v01`*
-*File: `Notion расширенная Version.md`*
+*Session: `XS Discovery Call Demo`*
+*File: `Notion Extended Version.md`*
